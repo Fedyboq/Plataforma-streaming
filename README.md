@@ -11,3 +11,5 @@ Se utilizan distintos patrones de diseño:
 # Uso 
 para usar el codigo solo se debe colocar una tabla en formato tsv en la variable nombre_archivo para que el codigo haga el arbol y corra con la interfaz.
 la interfaz de el codigo hecha en la terminal se basa en que el usuario coloque numeros para moverse por la misma y cuenta con paginacion para no abrumar al usuario.
+![Interfaz de texto](https://upload.wikimedia.org/wikipedia/commons/b/bd/Trie_example.svg)
+
