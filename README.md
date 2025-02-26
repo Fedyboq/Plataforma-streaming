@@ -17,6 +17,7 @@ para usar el codigo solo se debe colocar una tabla en formato tsv en la variable
 la interfaz de el codigo hecha en la terminal se basa en que el usuario coloque numeros para moverse por la misma y cuenta con paginacion para no abrumar al usuario.
 ![Interfaz de texto](Imagenes/foto_interfaz.png)
 ![Interfaz de texto](Imagenes/foto_interfaz2.png)
+
 A la hora de buscar la pelicula por ejemplo de buscar matrix se buscara en el trie nodo por nodo hasta dar con la pelicula.
 ![Foto_del_trie](Imagenes/Ejemplo_Trie.png)
 # Peso
