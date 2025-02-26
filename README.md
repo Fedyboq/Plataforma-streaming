@@ -18,7 +18,7 @@ la interfaz de el codigo hecha en la terminal se basa en que el usuario coloque 
 ![Interfaz de texto](Imagenes/foto_interfaz.png)
 ![Interfaz de texto](Imagenes/foto_interfaz2.png)
 A la hora de buscar la pelicula por ejemplo de buscar matrix se buscara en el trie nodo por nodo hasta dar con la pelicula.
-![Foto_del_trie](Imagenes/Ejemplo Trie.png)
+![Foto_del_trie](Imagenes/Ejemplo_Trie.png)
 # Peso
 A la hora de ver el peso en terminos de big o nos centraremos mas par la busquedas de peliculas. 
 Busqueda por tag. ---> Su tiempo seria de O(n) ya que pasaria por toda la lista de las peliculas y verificaria si en los tags en question esta el tag deseado.
