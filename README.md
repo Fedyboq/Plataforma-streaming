@@ -22,6 +22,6 @@ A la hora de buscar la pelicula por ejemplo de buscar matrix se buscara en el tr
 ![Foto_del_trie](Imagenes/Ejemplo_Trie.png)
 # Peso
 A la hora de ver el peso en terminos de big o nos centraremos mas par la busquedas de peliculas. 
-Busqueda por tag. ---> Su tiempo seria de O(n) ya que pasaria por toda la lista de las peliculas y verificaria si en los tags en question esta el tag deseado.
-Para la creacion de nuestro Trie seria aproximadamente de O(n*m) si tomamos el promedio de la longitud de palabras coo algo constante = O(n) tanto en tiempo como en espacio
+Busqueda por tag. ---> Su tiempo seria de O(n) ya que pasaria por toda la lista de las peliculas y verificaria si en los tags en question esta el tag deseado. Siendo n la cantidad de peliculas en nuestro csv.
+Para la creacion de nuestro Trie seria aproximadamente de O(n*m) si tomamos el promedio de la longitud de palabras como algo constante = O(n) tanto en tiempo como en espacio. Siendo m el promedio de longitud por pelicula y n la cantidad de peliculas.
 Para la busqueda usando nuestro trie seria de O(p) siendo p la longitud del patron que insertamos lo que en caso de patrones pequeños seria constante
