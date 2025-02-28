@@ -1,5 +1,9 @@
 ## Plataforma-streaming
 proyecto sobre la plataforma de streaming
+# integrantes
+ - Federico Iribar
+ - Sander'S Arana, Ralfh Krishna Karl
+ - Rodriguez Perez, Ivan Alonso
 # Descripción
 Este es un proyecto que adapta una pequeña interfaz para poder buscar peliculas, en la cual usa un algoritmo de busqueda de trie para hacerlo, en base a si contienen el patron insertado tanto en su titulo como en su synopsis y te entrega el titulo con su id correspondiente. Ademas de esta funciona cuenta con una funcion para poder visualizar que peliculas fueron likeadas y una funcion de ver mas tarde.
 # Caracteristicas 
