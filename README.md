@@ -34,5 +34,6 @@ Para la busqueda usando nuestro trie seria de O(p) siendo p la longitud del patr
 # link al video
 https://www.youtube.com/watch?v=2aRUlVXS-bw
 
-[![Ver Video](hhttps://www.youtube.com/watch?v=2aRUlVXS-bw)
+[![Ver Video](https://img.youtube.com/vi/ID_DEL_VIDEO/maxresdefault.jpg)](https://www.youtube.com/watch?v=2aRUlVXS-bw)
+
 
