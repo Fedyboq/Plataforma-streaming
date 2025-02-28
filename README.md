@@ -36,4 +36,6 @@ https://www.youtube.com/watch?v=2aRUlVXS-bw
 
 [![Ver Video](https://img.youtube.com/vi/2aRUlVXS-bw/maxresdefault.jpg)](https://youtu.be/2aRUlVXS-bw)
 
-
+# Referencias 
+MIT OpenCourseWare 
+MIT OpenCourseWare . (18 dic 2013). 16. Strings. YouTube. https://www.youtube.com/watch?v=NinWEPPrkDQ
